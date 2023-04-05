@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d0ddd2a7cd5b14cb6cf27b9fb4cee5, type: 3}
+  m_Name: 02_Hotdog
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: f462024b61d99404fab8ae660c6a709c, type: 3}
+  InitialLevel: 0
+  Level: 0
+  LevelToGoal: 25
+  InitialIncome: 35
+  Income: 35
+  InitialReturnTime: 8
+  ReturnTime: 8
+  InitialUpgradeCost: 105
+  UpgradeCost: 105
+  HasPurchasedManager: 0

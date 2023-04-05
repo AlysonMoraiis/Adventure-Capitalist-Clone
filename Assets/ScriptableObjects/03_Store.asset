@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d0ddd2a7cd5b14cb6cf27b9fb4cee5, type: 3}
+  m_Name: 03_Store
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: ff53443df07d38f49b6174e40dd25318, type: 3}
+  InitialLevel: 0
+  Level: 0
+  LevelToGoal: 25
+  InitialIncome: 4320
+  Income: 4320
+  InitialReturnTime: 15
+  ReturnTime: 15
+  InitialUpgradeCost: 8640
+  UpgradeCost: 8640
+  HasPurchasedManager: 0
