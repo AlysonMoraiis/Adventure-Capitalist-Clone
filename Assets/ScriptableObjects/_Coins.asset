@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7150c0a85e895494e82c805133769fe2, type: 3}
   m_Name: _Coins
   m_EditorClassIdentifier: 
-  Dollar: 0
-  AllTimeDollar: 0
+  Dollar: 13115.588610649109
+  AllTimeDollar: 13189
   SessionFairies: 0
-  Fairies: 0
+  Fairies: 5
